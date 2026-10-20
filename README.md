@@ -106,19 +106,6 @@ The goal of this project is to make document research easier by combining semant
 
 GitHub: [Arjun1233333](https://github.com/Arjun1233333)
 
-
-
-## Application Screenshots
-
-### 1. Home Page
-![AI Document Intelligence Home Page](screenshots/home-page.png)
-
-### 2. Document Upload and Processing
-![Uploaded PDF and Processing Status](screenshots/document-loaded.png)
-
-### 3. AI-Generated Answers with Evidence
-![AI Answer with Source Evidence](screenshots/question-answer.png)
-
 ---
 
 *This project is intended to assist with document research. Always verify important information against the original document.*
